@@ -58,7 +58,7 @@ I have contributed to **130+ projects across fintech, healthcare, productivity, 
 
 ## Featured Real Projects
 
-### **📱 9Mom — Contraction Timer App**
+### **9Mom — Contraction Timer App**
 A clean, accurate, distraction-free contraction timer for expecting mothers.  
 - Start/Stop instantly  
 - Contraction history  
@@ -75,7 +75,7 @@ A clean, accurate, distraction-free contraction timer for expecting mothers.
 
 ---
 
-### **💰 BullionCalc Pro — Gold & Bullion Calculator**
+### **BullionCalc Pro — Gold & Bullion Calculator**
 A high-precision calculator used by buyers, jewellers & investors.  
 - Accurate conversions  
 - Custom pricing  
@@ -90,7 +90,7 @@ A high-precision calculator used by buyers, jewellers & investors.
 
 ---
 
-## 📈 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img width="96%" src="https://github-readme-streak-stats.herokuapp.com/?user=saad-ali-dev&theme=tokyonight" />

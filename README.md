@@ -64,7 +64,8 @@ A clean, accurate, distraction-free contraction timer for expecting mothers.
 - Contraction history  
 - Zero ads  
 - No account required  
-- Built with Flutter + Firebase  
+- Built with Flutter
+- Riverpod  
 
 <p>
   <a href="https://play.google.com/store/apps/details?id=com.thedebuggers.ninemom" target="_blank">

@@ -1,7 +1,7 @@
 <!-- Premium Banner -->
 <p align="center">
   <!-- Replace this with your uploaded banner URL -->
-  <img src="https://github.com/saadalidev/saadalidev/blob/05dd3bd1b22b264099c8522a2f901c25667fd829/SAAD%20ALi.png" width="100%" />
+  <img src="https://raw.githubusercontent.com/saadalidev/saadalidev/main/SAAD%20ALi.png" width="100%" />
 </p>
 
 <h1 align="center">👋 Hi, I'm Saad Ali</h1>

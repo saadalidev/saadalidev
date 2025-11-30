@@ -15,7 +15,7 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
 I’m **Saad Ali**, a senior mobile app developer and full-stack engineer with **5+ years of experience** building scalable, high-performance applications for global clients.
 
@@ -28,11 +28,11 @@ I specialise in:
 - **Production-level optimisation**, crash prevention & maintainable code  
 - **Real-world solutions** that scale with thousands of users  
 
-I have contributed to **450+ projects across fintech, healthcare, productivity, tools & e-commerce**, delivering stable and optimized results.
+I have contributed to **130+ projects across fintech, healthcare, productivity, tools & e-commerce**, delivering stable and optimized results.
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 ### **Mobile**
 <p>
@@ -56,7 +56,7 @@ I have contributed to **450+ projects across fintech, healthcare, productivity, 
 
 ---
 
-## ⭐ Featured Real Projects
+## Featured Real Projects
 
 ### **📱 9Mom — Contraction Timer App**
 A clean, accurate, distraction-free contraction timer for expecting mothers.  
@@ -100,7 +100,7 @@ A high-precision calculator used by buyers, jewellers & investors.
 
 ---
 
-## 🧠 What I Build
+## What I Build
 
 - Full end-to-end mobile apps  
 - API-driven systems  
@@ -110,7 +110,7 @@ A high-precision calculator used by buyers, jewellers & investors.
 
 ---
 
-## 📬 Connect With Me
+## Connect With Me
 
 <p>
   <a href="mailto:saad_ali1995@hotmail.com" ><img src="https://img.shields.io/badge/Email%20Me-000000?style=for-the-badge&logo=gmail&logoColor=white" /></a>

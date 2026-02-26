@@ -57,7 +57,26 @@ I have contributed to **130+ projects across fintech, healthcare, productivity, 
 ---
 
 ## Featured Real Projects
+### **Bizledger — Smart Invoice Maker for Businesses**
+- A professional invoice & business management app designed for freelancers, small businesses & shop owners.  
+- Create professional invoices in seconds
+- PDF export & share instantly
+- Client & product management
+- Tax & discount handling
+- Clean, modern UI built for real-world use
+- Built with Flutter
+- Backend-powered architecture 
 
+<p>
+  <a href="https://play.google.com/store/apps/details?id=com.debuggers.bizledger" target="_blank">
+    <img src="https://img.shields.io/badge/Google_Play-34A853?style=for-the-badge&logo=google-play&logoColor=white" />
+  </a>
+  <a href="https://apps.apple.com/us/app/bizledger-invoice-maker/id6759007698" target="_blank">
+    <img src="https://img.shields.io/badge/App_Store-000000?style=for-the-badge&logo=apple&logoColor=white" />
+  </a>
+</p>
+
+---
 ### **9Mom — Contraction Timer App**
 A clean, accurate, distraction-free contraction timer for expecting mothers.  
 - Start/Stop instantly  
@@ -70,6 +89,9 @@ A clean, accurate, distraction-free contraction timer for expecting mothers.
 <p>
   <a href="https://play.google.com/store/apps/details?id=com.thedebuggers.ninemom" target="_blank">
     <img src="https://img.shields.io/badge/Google_Play-34A853?style=for-the-badge&logo=google-play&logoColor=white" />
+  </a>
+  <a href="https://apps.apple.com/us/app/labor-contraction-timer-9mom/id6759001621" target="_blank">
+    <img src="https://img.shields.io/badge/App_Store-000000?style=for-the-badge&logo=apple&logoColor=white" />
   </a>
 </p>
 

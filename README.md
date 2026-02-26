@@ -57,9 +57,10 @@ I have contributed to **130+ projects across fintech, healthcare, productivity, 
 ---
 
 ## Featured Real Projects
-### **Bizledger — Smart Invoice Maker for Businesses**
-- A professional invoice & business management app designed for freelancers, small businesses & shop owners.  
+### **Bizledger - Smart Invoice Maker for Businesses**
+A professional invoice & business management app designed for freelancers, small businesses & shop owners.  
 - Create professional invoices in seconds
+- Offline First Approach
 - PDF export & share instantly
 - Client & product management
 - Tax & discount handling
@@ -77,7 +78,7 @@ I have contributed to **130+ projects across fintech, healthcare, productivity, 
 </p>
 
 ---
-### **9Mom — Contraction Timer App**
+### **9Mom - Contraction Timer App**
 A clean, accurate, distraction-free contraction timer for expecting mothers.  
 - Start/Stop instantly  
 - Contraction history  
@@ -97,7 +98,7 @@ A clean, accurate, distraction-free contraction timer for expecting mothers.
 
 ---
 
-### **BullionCalc Pro — Gold & Bullion Calculator**
+### **BullionCalc Pro - Gold & Bullion Calculator**
 A high-precision calculator used by buyers, jewellers & investors.  
 - Accurate conversions  
 - Custom pricing  
